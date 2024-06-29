@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "movie_app_2",
-    "slug": "movie_app_2",
+    "name": "ProgateMovieApp",
+    "slug": "ProgateMovieApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
